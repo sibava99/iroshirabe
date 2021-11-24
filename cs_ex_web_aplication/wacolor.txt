@@ -1,0 +1,8 @@
+.text {
+	color:blue;
+	background-color:green;
+	font-size: 50px;
+}
+.container{
+	backgroud-color: pink;
+}

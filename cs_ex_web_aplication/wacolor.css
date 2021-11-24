@@ -1,0 +1,75 @@
+body {
+	background-image: url("washi_bg2.jpg");
+}
+
+ol,li{
+	font-size:2rem;
+	color:#000000;
+	margin:10px;
+}
+
+.top_wrap{
+	justify-content:center;
+	text-align:center;
+	font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic',sans-serif;
+}
+.title{
+	font-family: "Hannari";
+	font-size:10rem;	
+}
+.explain{
+	font-size:1.3rem;
+}
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+
+}
+.text {
+	color:#000000;
+	font-family: 'Noto Serif JP', serif;
+	margin: 0px;
+	width:50%;
+}
+
+.color {
+	margin: 0px;
+	background-color:#E95464;
+	width: 50%;
+	height: 100vh;
+	mix-blend-mode: multiply;
+}
+
+.tate{
+	-webkit-writing-mode: vertical-rl;
+	-moz-writing-mode: vertical-rl;
+	-ms-writing-mode: tb-rl;
+	-ms-writing-mode: vertical-rl;
+	writing-mode: vertical-rl;
+	column-gap: 20px;
+	display: inline-block;
+	text-align: justify;
+	text-justify: inter-ideograph;
+}
+
+.kanji{
+	font-size: 5rem;
+}
+.hurigana{
+	font-size: 3rem;
+}
+.rgb{
+	font-size: 3rem;
+}
+
+
+cent{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	font-size:2rem;
+}
+
